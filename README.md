@@ -1,5 +1,3 @@
-### EM DESENVOLVIMENTO
-
 # Projeto Back-End
 
 Este é um projeto desenvolvido com o intuito de aplicar e treinar os conceitos back-end com Java e Spring Boot. 
