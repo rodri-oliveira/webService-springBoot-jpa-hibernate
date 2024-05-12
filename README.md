@@ -14,7 +14,6 @@ Ele oferece uma base sólida para compreender os principais conceitos e tecnolog
 
 ## Tecnologias Utilizadas
 
-
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
 - ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-green)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-green)
@@ -52,4 +51,3 @@ Ele oferece uma base sólida para compreender os principais conceitos e tecnolog
 
 - `GET /categories`: Retorna todas as categorias.
 - `GET /categories/{id}`: Retorna uma categoria por ID.
-
